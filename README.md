@@ -18,6 +18,8 @@ _An authorized user uses fingerprint verification to unlock the door, while the 
 
 > [!IMPORTANT]  
 > IoT Device Diagram
+
+
 ![Smart Door Lock System Diagram](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/raw/main/resource/IOT%20diagram.jpeg)
 
 
