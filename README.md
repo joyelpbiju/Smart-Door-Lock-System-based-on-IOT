@@ -26,18 +26,7 @@ _An authorized user uses fingerprint verification to unlock the door, while the 
 > [!IMPORTANT]  
 > IoT Device Diagram
 
-[Download device configuration file](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Documentation/device-configuration.json) and upload to your preferred IoT design tool for customization or a detailed view.  
-+ Security Architecture  
-![Security Architecture](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Resource/security-architecture.svg)  
-- [x] The above architecture is modular and can be further customized.  
-- [ ] Effort calculated: ~150+ hours 🕙 in 8-12 weeks 📆 `[ongoing project]`  
-- [ ] Future enhancements include voice control and camera integration for visual monitoring.
 
-> [!WARNING]  
-> This project highlights potential vulnerabilities in IoT devices, emphasizing the need for robust security measures.
-
-> [!CAUTION]  
-> This project is for educational purposes to improve security understanding. Findings should be responsibly used to enhance security strategies and system defenses.
 
 ### System Configuration and Setup
 
