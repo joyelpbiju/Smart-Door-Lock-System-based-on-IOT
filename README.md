@@ -17,9 +17,6 @@ The project, titled "Smart Security Door Lock System," was built by [Joshua Poru
 _An authorized user uses fingerprint verification to unlock the door, while the system’s motion detection sensor continuously monitors for any movement near the door. Upon detecting unexpected motion, the system sends an alert to the user’s mobile device via Wi-Fi. Additionally, an intruder attempting to access the system will trigger a series of notifications and an alert._
 
 > [!IMPORTANT]  
-> Find [Project Documentation and Setup Guide](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Documentation/README.md)
-
-> [!IMPORTANT]  
 > IoT Device Diagram
 
 
