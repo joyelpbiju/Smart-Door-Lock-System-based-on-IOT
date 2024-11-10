@@ -2,7 +2,7 @@
 An innovative IoT-powered security solution designed for secure, remote access and monitoring of entry points. This project, developed with the PineCone microcontroller, combines fingerprint-based authentication, motion detection, and mobile connectivity to deliver a robust, user-friendly smart lock system
 # Project-Smart-Door-Lock-IoT-System 🔒
 
-The project, titled "Smart Security Door Lock System," was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) in collaboration with [Joyel Porunnedath Biju](https://github.com/joyelpbiju), [Sudhakar Hanumanth](https://github.com/sudhanumanth), [Shravanthi Keshavamurthy](https://github.com/shravanthikeshavamurthy), and [Zishnu Viknesh Shivakumar](https://github.com/shivakumarzishnuviknesh7), all students from FH Schmalkalden University of Applied Sciences.
+The project, titled "Smart Security Door Lock System," was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) in collaboration with [Joyel Porunnedath Biju](https://github.com/joyelpbiju), [Sudhakar Hanumanth](https://github.com/SudhakarH), [Shravanthi Keshavamurthy](https://github.com/SHRAVANTHIK1999), and [Zishnu Viknesh Shivakumar](https://github.com/shivakumarzishnuviknesh7), all students from FH Schmalkalden University of Applied Sciences.
 
 > [!NOTE]  
 > This project integrates IoT technologies to create a secure, fingerprint-activated door lock with real-time motion detection alerts and remote control capabilities via mobile device.
