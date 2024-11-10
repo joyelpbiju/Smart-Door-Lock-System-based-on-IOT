@@ -28,17 +28,9 @@ _An authorized user uses fingerprint verification to unlock the door, while the 
 
 
 
-### System Configuration and Setup
-
-1. [PineCone Microcontroller Setup for Fingerprint Sensor and Wi-Fi](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Resource/microcontroller-setup.md)
-2. [Wi-Fi Configuration for Mobile Notifications](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Resource/wifi-setup.md)
-3. [Relay and Servo Motor Control for Door Mechanism](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Resource/relay-servo-setup.md)
-4. [Notification System Integration](https://github.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/blob/main/Resource/notification-setup.md)
 
 ### **References**
+1. [PineCone Microcontroller Setup for Fingerprint Sensor and Wi-Fi](https://wiki.pine64.org/wiki/PineCone)
 
-1. [IoT Device Security](https://www.iotsecurity.org/)
-2. [Smart Home Security Guide](https://smarthomesecurity.com/guide)
-3. [PineCone Documentation](https://pineconedevices.com/docs)
-4. [Wi-Fi Security Updates](https://techcommunity.microsoft.com/)
-5. [Mobile Notification System Setup](https://developer.android.com/guide/notifications)
+
+
