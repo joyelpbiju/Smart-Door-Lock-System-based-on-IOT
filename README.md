@@ -13,10 +13,6 @@ The project, titled "Smart Security Door Lock System," was built by [Joshua Poru
 > [!IMPORTANT]  
 > Regular updates to firmware are necessary to keep up with security advancements and ensure compatibility with the latest mobile technologies.
 
-## System Overview - EVENT TIMELINE
-
-![System Timeline](https://raw.githubusercontent.com/JOSHUAPBIJU/Project-Smart-Door-Lock-IoT-System/main/Resource/system-timeline.png)
-
 ### Scenario:
 _An authorized user uses fingerprint verification to unlock the door, while the system’s motion detection sensor continuously monitors for any movement near the door. Upon detecting unexpected motion, the system sends an alert to the user’s mobile device via Wi-Fi. Additionally, an intruder attempting to access the system will trigger a series of notifications and an alert._
 
