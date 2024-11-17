@@ -28,3 +28,4 @@ _An authorized user verifies their fingerprint to unlock the door, while a motio
 ## References
 
 1. [PineCone Microcontroller Setup for Fingerprint Sensor and Wi-Fi](https://wiki.pine64.org/wiki/PineCone)
+2. [Pinecone detail setup](https://pine64.github.io/bl602-docs/)
