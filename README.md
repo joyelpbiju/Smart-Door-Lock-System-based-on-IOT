@@ -17,7 +17,7 @@ The "Smart Security Door Lock System" was developed by [Joshua Porunnedath Biju]
 
 ## System Scenario
 
-_An authorized user verifies their fingerprint to unlock the door, while a motion sensor monitors for any movement nearby. If unexpected motion is detected, the system immediately sends an alert to the user’s mobile device via Wi-Fi. In the case of a potential intruder, the system triggers a series of notifications to keep the user informed._
+_An authorized user verifies their RFID TAG to unlock the door, while a motion sensor monitors for any movement nearby. If unexpected motion is detected, the system immediately sends an alert to the user’s mobile device via Wi-Fi. In the case of a potential intruder, the system triggers a series of notifications to keep the user informed._
 
 ### IoT Device Diagram
 
