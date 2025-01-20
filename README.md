@@ -21,7 +21,7 @@ _An authorized user verifies their RFID TAG to unlock the door, while a motion s
 
 ### IoT Device Diagram
 
-![Smart Door Lock System Diagram](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/raw/main/resource/IOT%20diagram.jpeg)
+![Smart Door Lock System Diagram](https://raw.githubusercontent.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/refs/heads/main/resource/Architecture%20diagram.png)
 
 ---
 
