@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFC107</color>
+    <color name="blurred_overlay">#80000000</color>
+    <color name="button_background">#4CAF50</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="dark_text">#000000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="error">#D32F2F</color>
+    <color name="highlight">#FFEB3B</color>
+    <color name="highlight_text">#D32F2F</color>
+    <color name="light_background">#FAFAFA</color>
+    <color name="light_text">#FFFFFF</color>
+    <color name="motion_highlight">#FF0000</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="secondary_text">#757575</color>
+    <color name="semi_transparent">#80000000</color>
+    <color name="success">#4CAF50</color>
+    <color name="transparent">#00000000</color>
+    <color name="warning">#FFC107</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Smart Door</string>
+    <string name="error_code">Error: %1$d</string>
+    <string name="error_fetching_status">Error fetching status</string>
+    <string name="image_description">Motion status icon</string>
+    <string name="lock_icon_description">Lock icon</string>
+    <string name="motion_alert">Motion Alert</string>
+    <string name="motion_detected">Motion detected by the Smart Door sensor!</string>
+    <string name="motion_detection_status">Motion Detection Status</string>
+    <string name="no_motion_detected">No motion detected.</string>
+    <string name="notification_channel_description">Notifications for motion detection and RFID events by Smart Door.</string>
+    <string name="notification_channel_name">Motion and RFID Alerts</string>
+    <string name="notification_motion_detected">Motion detected by the Smart Door system!</string>
+    <string name="permission_notification_required_message">This app requires notification permissions to alert you about motion detection.</string>
+    <string name="permission_notification_required_title">Notification Permission Required</string>
+    <string name="permission_request_ok">OK</string>
+    <string name="refresh_status_button">Refresh Status</string>
+    <string name="rfid_alert">RFID Alert</string>
+    <string name="rfid_invalid">Invalid RFID scan\nDoor remains closed</string>
+    <string name="rfid_status_icon_description">RFID Status Icon</string>
+    <string name="rfid_status_prefix">RFID Status: </string>
+    <string name="rfid_tags_url_error">Error fetching RFID tags</string>
+    <string name="rfid_tags_user_id">RFID Tag User ID: %1$s</string>
+    <string name="rfid_unknown">Unknown RFID Status\nDoor remains closed</string>
+    <string name="rfid_valid">RFID Scanned successfully by User ID: %1$s\nDoor Open</string>
+    <string name="status_prefix">Status: </string>
+    <string name="unknown_status">Unknown status.</string>
+    <string name="waiting_for_motion_detection">Status: Waiting for motion detection...</string>
+    <string name="waiting_for_rfid_status">Waiting for RFID scan...</string>
+    <style name="Base.Theme.SmartDoor" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:colorBackground">@color/light_background</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/dark_text</item>
+        <item name="colorOnSurface">@color/primary_text</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+    <style name="Theme.SmartDoor" parent="Base.Theme.SmartDoor"/>
+    <style name="Theme.SmartDoor.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/door</item> 
+    </style>
+</resources>

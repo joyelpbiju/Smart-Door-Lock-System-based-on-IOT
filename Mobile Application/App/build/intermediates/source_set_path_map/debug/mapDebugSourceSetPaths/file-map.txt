@@ -1,0 +1,34 @@
+com.example.smartdoor.app-coordinatorlayout-1.1.0-0 /Users/yogeshk/.gradle/caches/transforms-4/04e20c26169d9c974deff5e4d67b6963/transformed/coordinatorlayout-1.1.0/res
+com.example.smartdoor.app-profileinstaller-1.4.0-1 /Users/yogeshk/.gradle/caches/transforms-4/148255f4102f39ab9ee1027fdc744c97/transformed/profileinstaller-1.4.0/res
+com.example.smartdoor.app-cardview-1.0.0-2 /Users/yogeshk/.gradle/caches/transforms-4/23f9707189fe3967458a337a4b9ac749/transformed/cardview-1.0.0/res
+com.example.smartdoor.app-emoji2-views-helper-1.3.0-3 /Users/yogeshk/.gradle/caches/transforms-4/2b4acaff93a6ae04bac4f4422c61babc/transformed/emoji2-views-helper-1.3.0/res
+com.example.smartdoor.app-material-1.12.0-4 /Users/yogeshk/.gradle/caches/transforms-4/2c93d16ee376fc0ea4a8ec621fb4c981/transformed/material-1.12.0/res
+com.example.smartdoor.app-constraintlayout-2.2.0-5 /Users/yogeshk/.gradle/caches/transforms-4/33178b2145debd2265a3922bd1f3a6e8/transformed/constraintlayout-2.2.0/res
+com.example.smartdoor.app-lifecycle-process-2.6.2-6 /Users/yogeshk/.gradle/caches/transforms-4/377aabac4bd849a122b8ac0575ee8629/transformed/lifecycle-process-2.6.2/res
+com.example.smartdoor.app-transition-1.5.0-7 /Users/yogeshk/.gradle/caches/transforms-4/3ca59014723a7c3210321ea514771721/transformed/transition-1.5.0/res
+com.example.smartdoor.app-lifecycle-viewmodel-2.6.2-8 /Users/yogeshk/.gradle/caches/transforms-4/58e6a5846ae5143b761fe56ff970d38a/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.smartdoor.app-recyclerview-1.1.0-9 /Users/yogeshk/.gradle/caches/transforms-4/5b296a09cf5cd101c96102e5ca6b9fc4/transformed/recyclerview-1.1.0/res
+com.example.smartdoor.app-core-1.13.0-10 /Users/yogeshk/.gradle/caches/transforms-4/5beb86923544368f3150010c480b1af3/transformed/core-1.13.0/res
+com.example.smartdoor.app-startup-runtime-1.1.1-11 /Users/yogeshk/.gradle/caches/transforms-4/6c74dedf04f98a2bd6e21c8038f42a9f/transformed/startup-runtime-1.1.1/res
+com.example.smartdoor.app-drawerlayout-1.1.1-12 /Users/yogeshk/.gradle/caches/transforms-4/6e4cca7fa382c546163ff8745f684444/transformed/drawerlayout-1.1.1/res
+com.example.smartdoor.app-lifecycle-runtime-2.6.2-13 /Users/yogeshk/.gradle/caches/transforms-4/71f03c98d5461d2594170e185bb17391/transformed/lifecycle-runtime-2.6.2/res
+com.example.smartdoor.app-lifecycle-livedata-2.6.2-14 /Users/yogeshk/.gradle/caches/transforms-4/7853c081a2c13f9e21012e92c73bd170/transformed/lifecycle-livedata-2.6.2/res
+com.example.smartdoor.app-annotation-experimental-1.4.0-15 /Users/yogeshk/.gradle/caches/transforms-4/812890ae0b088252ad2080df4158aba1/transformed/annotation-experimental-1.4.0/res
+com.example.smartdoor.app-fragment-1.5.4-16 /Users/yogeshk/.gradle/caches/transforms-4/841d4821de3c3776829a102d6e6e9271/transformed/fragment-1.5.4/res
+com.example.smartdoor.app-lifecycle-viewmodel-savedstate-2.6.2-17 /Users/yogeshk/.gradle/caches/transforms-4/954c0ce0249f21f4fcdc1339299e4c8e/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.smartdoor.app-appcompat-resources-1.7.0-18 /Users/yogeshk/.gradle/caches/transforms-4/a145a483d7908e503c4f40e3a69f2892/transformed/appcompat-resources-1.7.0/res
+com.example.smartdoor.app-lifecycle-livedata-core-2.6.2-19 /Users/yogeshk/.gradle/caches/transforms-4/b08628e85213f0d8507796f53a4fc64e/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.smartdoor.app-appcompat-1.7.0-20 /Users/yogeshk/.gradle/caches/transforms-4/bc683e56d294defa7ee314f7e17d8aa8/transformed/appcompat-1.7.0/res
+com.example.smartdoor.app-core-ktx-1.13.0-21 /Users/yogeshk/.gradle/caches/transforms-4/be2cd1855591d4fd5b24064a713e8ec2/transformed/core-ktx-1.13.0/res
+com.example.smartdoor.app-viewpager2-1.0.0-22 /Users/yogeshk/.gradle/caches/transforms-4/c17dff2d5a406aaeeff3123106927b84/transformed/viewpager2-1.0.0/res
+com.example.smartdoor.app-savedstate-1.2.1-23 /Users/yogeshk/.gradle/caches/transforms-4/c64c9d39f81437b099bf18d29c3a4ece/transformed/savedstate-1.2.1/res
+com.example.smartdoor.app-core-runtime-2.2.0-24 /Users/yogeshk/.gradle/caches/transforms-4/ca78b60e19c197d7870a64156a8413a2/transformed/core-runtime-2.2.0/res
+com.example.smartdoor.app-activity-1.9.3-25 /Users/yogeshk/.gradle/caches/transforms-4/d3650fed8eb1994afc9fc8775543c8c8/transformed/activity-1.9.3/res
+com.example.smartdoor.app-emoji2-1.3.0-26 /Users/yogeshk/.gradle/caches/transforms-4/d7db11a315ec0facb9eb6a47977b405e/transformed/emoji2-1.3.0/res
+com.example.smartdoor.app-pngs-27 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/build/generated/res/pngs/debug
+com.example.smartdoor.app-resValues-28 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/build/generated/res/resValues/debug
+com.example.smartdoor.app-packageDebugResources-29 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.smartdoor.app-packageDebugResources-30 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.smartdoor.app-debug-31 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.smartdoor.app-debug-32 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/src/debug/res
+com.example.smartdoor.app-main-33 /Users/yogeshk/Documents/Shravanthi/Project IOT/SmartDoor /app/src/main/res
