@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#4CAF50</color> <!-- Green accent -->
+    <color name="primary_dark">#388E3C</color> <!-- Dark green -->
+    <color name="accent">#FFC107</color> <!-- Amber accent -->
+    <color name="white">#FFFFFF</color>
+    <color name="secondary">#03DAC5</color> <!-- Teal accent -->
+
+    <!-- Background Colors -->
+    <color name="light_background">#FAFAFA</color> <!-- Light gray background -->
+    <color name="card_background">#FFFFFF</color> <!-- White for cards -->
+    <color name="blurred_overlay">#80000000</color> <!-- Semi-transparent black for overlays -->
+
+    <!-- Text Colors -->
+    <color name="primary_text">#212121</color> <!-- Dark gray for main text -->
+    <color name="secondary_text">#757575</color> <!-- Light gray for secondary text -->
+    <color name="dark_text">#000000</color> <!-- Black for strong contrast -->
+    <color name="light_text">#FFFFFF</color> <!-- White for light text -->
+    <color name="highlight_text">#D32F2F</color> <!-- Red for highlighting important statuses -->
+
+    <!-- Button Colors -->
+    <color name="button_background">#4CAF50</color> <!-- Green button background -->
+    <color name="button_text">#FFFFFF</color> <!-- White button text -->
+
+    <!-- Notification and Status -->
+    <color name="success">#4CAF50</color> <!-- Green for success -->
+    <color name="warning">#FFC107</color> <!-- Amber for warning -->
+    <color name="error">#D32F2F</color> <!-- Red for error messages -->
+
+    <!-- Divider Colors -->
+    <color name="divider">#BDBDBD</color> <!-- Light gray for dividers -->
+
+    <!-- Transparent and Overlay Colors -->
+    <color name="transparent">#00000000</color> <!-- Fully transparent -->
+    <color name="semi_transparent">#80000000</color> <!-- Semi-transparent black -->
+
+    <!-- Highlight Colors -->
+    <color name="highlight">#FFEB3B</color> <!-- Yellow highlight -->
+    <color name="motion_highlight">#FF0000</color> <!-- Bright Red for motion detected -->
+</resources>
