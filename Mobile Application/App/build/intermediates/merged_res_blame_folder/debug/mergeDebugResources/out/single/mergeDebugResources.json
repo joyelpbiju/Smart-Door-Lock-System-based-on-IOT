@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/xml_network_security_config.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_ic_lock.png.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/ic_lock.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/layout_activity_splash.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_ic_lock2.png.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/ic_lock2.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_ic_notification.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_doorclose.png.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/doorclose.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_dooropen.png.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/dooropen.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_door2.png.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/door2.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.smartdoor.app-debug-31:/drawable_ic_lock.png.flat",
+        "source": "com.example.smartdoor.app-main-33:/drawable/ic_lock.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_door.png.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/door.png"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yogeshk/.gradle/daemon/8.7/com.example.smartdoor.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
