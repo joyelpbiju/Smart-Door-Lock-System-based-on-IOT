@@ -1,6 +1,6 @@
 # Smart Door Lock System Based on IoT 🔒
 
-An innovative IoT-powered security solution for secure, remote access and monitoring of entry points. This project, developed with the PineCone microcontroller, combines fingerprint authentication, motion detection, and mobile connectivity to deliver a robust, user-friendly smart lock system.
+An innovative IoT-powered security solution for secure, remote access and monitoring of entry points. This project, developed with the PineCone microcontroller, combines RFID Tag authentication, motion detection, and mobile connectivity to deliver a robust, user-friendly smart lock system.
 
 ## Project Overview
 
