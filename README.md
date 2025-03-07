@@ -27,12 +27,15 @@ _An authorized user verifies their RFID TAG to unlock the door, while a motion s
 
  
 ## Prototype Images and Videos  
-
+![Prototype](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/blob/main/prototype/images/component-1.jpeg)
 You can view prototype [images](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/tree/main/prototype/images) and [videos](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/tree/main/prototype/videos) 
 > [!NOTE]  
 > Click View Raw to access videos
----
+--- 
 
+
+
+---
 ## References
 
 1. [PineCone Microcontroller Setup for Fingerprint Sensor and Wi-Fi](https://wiki.pine64.org/wiki/PineCone)
