@@ -30,7 +30,7 @@ _An authorized user verifies their RFID TAG to unlock the door, while a motion s
 
 You can view prototype [images](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/tree/main/prototype/images) and [videos](https://github.com/JOSHUAPBIJU/Smart-Door-Lock-System-based-on-IOT/tree/main/prototype/videos) 
 > [!NOTE]  
-> Click View Raw to access vidoes
+> Click View Raw to access videos
 ---
 
 ## References
